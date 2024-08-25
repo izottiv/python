@@ -1,0 +1,6 @@
+A = int(input())
+B = int(input())
+C = float(input())
+Salario = (B*C)
+print('NUMBER = ', A)
+print('SALARY = U${:.2f}'.format(Salario))
